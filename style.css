@@ -41,7 +41,7 @@ a.lp-small_section {
 }
 
 
-/* ====    Carousels ===*/
+/* ====   I Carousels ===*/
 
 #carousel {
     position: relative
@@ -53,6 +53,13 @@ div.carousel-item>div.carousel-caption {
     text-align: left;
     top: 20%;
     left: 10%
+}
+
+
+/* II carousel  */
+
+div.medCarousel div.card {
+    margin: 5px 15px;
 }
 
 
