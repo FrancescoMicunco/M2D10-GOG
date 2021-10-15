@@ -27,6 +27,10 @@ a.lp-small_section {
     font-family: lato;
 }
 
+.btn {
+    padding: 3px 5px;
+}
+
 
 /* ====    Carousels ===*/
 
@@ -71,3 +75,12 @@ div.carousel-item>div.carousel-caption {
 
 
 /*  _______________  End circle gradient */
+
+
+/* =============    params */
+
+.bordered {
+    border: solid 3px black;
+    width: 150px;
+    padding: 5px
+}
