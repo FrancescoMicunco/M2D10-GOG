@@ -4,19 +4,20 @@ body {
 }
 
 h3 {
-    font-family: lato;
+    font-family: Lato;
     font-weight: 600;
     font-size: 16px;
+    color: black;
 }
 
 h4 {
-    font-family: lato;
-    font-weight: 700;
+    font-family: Lato;
     font-size: 12px;
+    font-weight: bold;
 }
 
 h5 {
-    font-family: lato;
+    font-family: Lato;
     font-weight: 400;
     font-size: 14px;
 }
