@@ -112,6 +112,12 @@ div.cardNav>div.card {
     object-fit: cover;
 }
 
+div>div.big {
+    min-width: 60%;
+}
+
+div.big>div>img {}
+
 
 /*  _______________  End circle gradient */
 
