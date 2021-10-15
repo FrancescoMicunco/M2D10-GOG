@@ -13,7 +13,7 @@ h3 {
 /* ===========    COMPONENT ==================*/
 
 
-/* ====    linh ===*/
+/* ====    link ===*/
 
 p.lp-small_section a {
     color: #6d1d72;
@@ -75,6 +75,18 @@ div.carousel-item>div.carousel-caption {
     left: -10px;
     z-index: -1;
     border-radius: inherit;
+}
+
+div.beforHero h3 {
+    margin-left: 10px;
+}
+
+div.mediumPage div.card {
+    min-width: 350px;
+}
+
+div.mediumPage div.card card {
+    margin-bottom: 20px;
 }
 
 
