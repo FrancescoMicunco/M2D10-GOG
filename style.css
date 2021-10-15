@@ -21,6 +21,11 @@ p.lp-small_section a {
     font-family: lato;
 }
 
+a:active {
+    color: #6d1d72;
+    text-decoration: underline;
+}
+
 a.lp-small_section {
     color: #6d1d72;
     font-weight: 700;
@@ -97,6 +102,14 @@ div.cardNav>div.card {
     position: absolute;
     left: 20%;
     min-width: 78%;
+}
+
+.div.secondMedium {
+    min-height: 300px;
+}
+
+.div.secondMedium img {
+    object-fit: cover;
 }
 
 
