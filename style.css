@@ -31,6 +31,10 @@ a.lp-small_section {
     padding: 3px 5px;
 }
 
+.card {
+    max-width: 20%;
+}
+
 
 /* ====    Carousels ===*/
 
