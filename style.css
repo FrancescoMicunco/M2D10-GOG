@@ -89,6 +89,16 @@ div.mediumPage div.card card {
     margin-bottom: 20px;
 }
 
+div.cardNav div.beforHero {
+    position: absolute;
+}
+
+div.cardNav>div.card {
+    position: absolute;
+    left: 20%;
+    min-width: 78%;
+}
+
 
 /*  _______________  End circle gradient */
 
