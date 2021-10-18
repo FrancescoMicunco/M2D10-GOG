@@ -183,7 +183,20 @@ div>div.big {
     min-width: 60%;
 }
 
-div.big>div>img {}
+.fifthy {
+    min-width: 50%;
+    max-width: 50%;
+    width: 50%;
+    min-height: 100%;
+}
+
+.fifthy-img {
+    object-fit: content;
+}
+
+.fifthycard {
+    min-width: 50%;
+}
 
 
 /*  _______________  End circle gradient */
