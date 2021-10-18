@@ -191,7 +191,7 @@ div>div.big {
 }
 
 .fifthy-img {
-    object-fit: content;
+    object-fit: cover;
 }
 
 .fifthycard {
